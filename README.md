@@ -8,9 +8,9 @@ A practical collection of wireless security tools and learning resources. This r
 
 ## 📁 Contents
 
-- `/esp32-marauder/` – Setup and usage for ESP32 Marauder
+- `/ESP32 MARAUDER/` – Setup and usage for ESP32 Marauder
 - `/pwnagotchi/` – Configuration and usage for Pwnagotchi
-- `/docs/wireless_basics.pdf` – PDF guide explaining wireless concepts and common attacks
+- `/docs/wireless_basics-concepts.pdf` – PDF guide explaining wireless concepts and common attacks
 
 ---
 
