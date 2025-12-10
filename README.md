@@ -24,7 +24,7 @@ The `wireless_basics.pdf` covers:
 - Tools overview and basic use cases
 
 ---
+![gadget](https://github.com/user-attachments/assets/5960345a-d414-4f34-a3f5-b72b8bbdabb2)
 
-![gadget](https://github.com/user-attachments/assets/8372650e-9134-4245-b5d9-7085bdcf0a94)
 
 
