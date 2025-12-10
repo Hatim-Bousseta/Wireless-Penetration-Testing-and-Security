@@ -25,10 +25,6 @@ The `wireless_basics.pdf` covers:
 
 ---
 
-## 🚀 Getting Started
+![gadget](https://github.com/user-attachments/assets/8372650e-9134-4245-b5d9-7085bdcf0a94)
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/wireless-pentesting-toolkit.git
-   cd wireless-pentesting-toolkit
 
